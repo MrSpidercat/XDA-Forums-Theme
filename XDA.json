@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "Karebu#7064",
+        "name": "XDA Forums",
+        "version": "1.0.0",
+        "license": "GPL-3.0 License",
+        "updater": "https:\/\/raw.githubusercontent.com\/MrSpidercat\/XDA-Forums-Theme\/main\/XDA.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -14407892,
+        "background_secondary": -15000287,
+        "active_channel": -13815754,
+        "accent": -13784343
+    },
+    "colors": {
+        "primary_dark_800": -15197667
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
