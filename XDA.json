@@ -17,8 +17,17 @@
     "colors": {
         "primary_dark_800": -15197667,
         "primary_dark_630": -14671065,
-        "uikit_settings_item_text_color_light": -14078926
+        "uikit_settings_item_text_color_light": -14013133,
+        "primary_dark_300": -986895,
+        "primary_700": -14737113
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "ic_channel_text": -986895,
+        "ic_thread": -986895,
+        "ic_sidebar_notifications_on_dark_24dp": -986895,
+        "ic_sidebar_notifications_off_dark_24dp": -2490368,
+        "ic_flex_input_create_thread_24dp_dark": -986895,
+        "ic_sidebar_pins_off_dark_24dp": -986895
+    },
     "raws": {}
 }
