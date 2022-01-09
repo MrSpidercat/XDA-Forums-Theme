@@ -3,6 +3,7 @@
 
 #### Description
 Have you ever wanted the XDA Forums color scheme on Discord?... No?.. Well here it is anyways.
+> This theme isn't finished and I don't know if I will finish it.
 
 ###### Requirements
 - [Aliucord](https://github.com/Aliucord/Aliucord) Required ✓
