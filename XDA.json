@@ -16,7 +16,8 @@
     },
     "colors": {
         "primary_dark_800": -15197667,
-        "primary_dark_630": -14671065
+        "primary_dark_630": -14671065,
+        "uikit_settings_item_text_color_light": -14078926
     },
     "drawable_tints": {},
     "raws": {}
